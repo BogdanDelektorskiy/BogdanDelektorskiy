@@ -1,18 +1,17 @@
 # Hello, I'm Bogdan Delektorskiy 👋
 
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
 
-[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BogdanDelektorskiy" alt="GitHub Streak" /></a>
+
 
 ## 🔎 About me
 
@@ -27,11 +26,30 @@ I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram ch
 - <a href="https://dls.samcs.ru/" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?BogdanDelektorskiy)](https://github.com//BogdanDelektorskiy/github-profile-trophy)
+
 
 ## 📧 Get in Touch
 add it latter
+
+
+
 <!--
+
+## Some statistics
+
+
+[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BogdanDelektorskiy" alt="GitHub Streak" /></a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanDelektorskiy&layout=compact)](https://github.com/BogdanDelektorskiy/github-readme-stats)
+
+
+[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BogdanDelektorskiy)](https://github.com/BogdanDelektorskiy/github-profile-trophy)
+
 **BogdanDelektorskiy/BogdanDelektorskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Here are some ideas to get you started:
