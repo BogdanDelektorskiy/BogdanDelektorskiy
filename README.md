@@ -25,6 +25,12 @@ I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram ch
 - <a href="https://dls.samcs.ru/" target="_blank"> Deep Learning School</a> from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - december 2025)
 - <a href="https://dls.samcs.ru/" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
 
+## 📫 My repositories
+
+- Computer_Science_HSE: my university projects and a lots of homework (C++ contests, data analysis)
+- MTS_School_of_Data_Analysis: my study projects and homework of this course (Python, statistics, optimization, regression)
+- DLS_MIPT: my jupiter notebooks of this course
+  All this will be added soon :)
 
 
 
