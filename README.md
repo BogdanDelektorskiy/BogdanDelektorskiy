@@ -8,9 +8,11 @@
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+
+[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BogdanDelektorskiy" alt="GitHub Streak" /></a>
-
 
 ## 🔎 About me
 
