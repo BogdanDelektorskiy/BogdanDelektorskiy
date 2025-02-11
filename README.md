@@ -27,9 +27,9 @@ I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram ch
 
 ## 📫 My repositories
 
-- Computer_Science_HSE: my university projects and a lots of homework (C++ contests, data analysis)
-- MTS_School_of_Data_Analysis: my study projects and homework of this course (Python, statistics, optimization, regression)
-- DLS_MIPT: my jupiter notebooks of this course
+- <a href="https://github.com/BogdanDelektorskiy/Computer_Science_HSE" target="_blank"> Computer_Science_HSE</a>: my university projects and a lots of homework (C++ contests, data analysis)
+- <a href="https://github.com/BogdanDelektorskiy/MTS_School_of_Data_Analysis" target="_blank"> MTS_School_of_Data_Analysis</a>: my study projects and homework of this course (Python, statistics, optimization, regression)
+- <a href="https://github.com/BogdanDelektorskiy/DLS_MIPT" target="_blank"> DLS_MIPT</a>: my jupiter notebooks of this course
   All this will be added soon :)
 
 
