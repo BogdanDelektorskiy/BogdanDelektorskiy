@@ -9,9 +9,14 @@
  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BogdanDelektorskiy" alt="GitHub Streak" /></a>
+
+
 ## 🔎 About me
 
-First-year computer science student, passionate about mathematics, data analysis, alghorithms and machine learning ❤️
+I'm first-year student at the Faculty of Computer Science student, passionate about mathematics, data analysis, alghorithms and machine learning ❤️
+
+I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram channel</a> in which I talk about my studies and current avents - my way to Machine Learning Engineer. 
 
 ## 🎓 Education
 - <a href="https://www.hse.ru/ba/compds//" target="_blank"> Applied Mathematics and computer science</a> bachelor from <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics </a> (september 2024 - june 2028)
@@ -19,6 +24,11 @@ First-year computer science student, passionate about mathematics, data analysis
 - <a href="https://dls.samcs.ru/" target="_blank"> Deep Learning School</a> from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - december 2025)
 - <a href="https://dls.samcs.ru/" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?BogdanDelektorskiy)](https://github.com//BogdanDelektorskiy/github-profile-trophy)
+
+## 📧 Get in Touch
+add it latter
 <!--
 **BogdanDelektorskiy/BogdanDelektorskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
