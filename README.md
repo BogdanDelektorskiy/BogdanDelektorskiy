@@ -15,7 +15,7 @@
 
 ## 🔎 About me
 
-I'm first-year student at the Faculty of Computer Science student, passionate about mathematics, data analysis, alghorithms and machine learning ❤️
+I'm first-year student at the Faculty of Computer Science, passionate about mathematics, data analysis, alghorithms and machine learning ❤️
 
 I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram channel</a> in which I talk about my studies and current avents - my way to Machine Learning Engineer. 
 
