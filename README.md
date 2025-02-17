@@ -22,20 +22,20 @@ I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram ch
 ## 🎓 Education
 
 ### 💻 Basic
-- <a href="https://www.hse.ru/ba/compds//" target="_blank"> Applied Mathematics and computer science</a> bachelor from <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics </a> (september 2024 - june 2028)
+- <a href="https://www.hse.ru/ba/compds//" target="_blank"> Applied Mathematics and computer science</a> bachelor from <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics</a> (september 2024 - june 2028)
 
 #### 📚 Additional
 - <a href="https://www.teta.mts.ru/analytics-school/" target="_blank"> School of Data Analysts</a> from <a href="https://moskva.mts.ru/personal/" target="_blank">MTS</a> (november 2024 - august 2025)
 - <a href="https://dls.samcs.ru/" target="_blank"> Deep Learning School</a> from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - december 2025)
 - <a href="https://mipt.ru/mentor" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
-- <a href="https://www.hse.ru/ma/mlds/announcements/1006697468.html" target="_blank"> Computer_Vision_Bootcamp</a> from <a href="https://www.hse.ru/ma/mlds/" target="_blank"> Master's "AI"</a> in <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics </a> (february 2025)
+- <a href="https://www.hse.ru/ma/mlds/announcements/1006697468.html" target="_blank"> Computer_Vision_Bootcamp</a> from <a href="https://www.hse.ru/ma/mlds/" target="_blank"> Master's "AI"</a> in <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics</a> (february 2025)
 
 ## 📫 My repositories
 
 - <a href="https://github.com/BogdanDelektorskiy/Computer_Science_HSE" target="_blank"> Computer_Science_HSE</a>: my university projects and a lots of homework (C++ contests, data analysis)
 - <a href="https://github.com/BogdanDelektorskiy/MTS_School_of_Data_Analysis" target="_blank"> MTS_School_of_Data_Analysis</a>: my study projects and homework of this course (Python, statistics, optimization, regression)
 - <a href="https://github.com/BogdanDelektorskiy/DLS_MIPT" target="_blank"> DLS_MIPT</a>: my jupiter notebooks of this course
-- <a href="https://github.com/BogdanDelektorskiy/CV_Bootcamp_Classification_and_detectoi" target="_blank"> Computer_Vision_Bootcamp</a>: lecture notes and final Kaggle competition (task of detection)
+- <a href="https://github.com/BogdanDelektorskiy/CV_Bootcamp_Classification_and_detectoin" target="_blank"> CV_Bootcamp_Classification_and_detectoin</a>: lecture notes and final Kaggle competition (task of detection)
 
 
   
