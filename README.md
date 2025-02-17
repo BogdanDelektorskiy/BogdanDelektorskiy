@@ -24,7 +24,7 @@ I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram ch
 ### 💻 Basic
 - <a href="https://www.hse.ru/ba/compds//" target="_blank"> Applied Mathematics and computer science</a> bachelor from <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics</a> (september 2024 - june 2028)
 
-#### 📚 Additional
+### 📚 Additional
 - <a href="https://www.teta.mts.ru/analytics-school/" target="_blank"> School of Data Analysts</a> from <a href="https://moskva.mts.ru/personal/" target="_blank">MTS</a> (november 2024 - august 2025)
 - <a href="https://dls.samcs.ru/" target="_blank"> Deep Learning School</a> from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - december 2025)
 - <a href="https://mipt.ru/mentor" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
