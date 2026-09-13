@@ -1,80 +1,83 @@
-# Hello, I'm Bogdan Delektorskiy 👋
+# Hi, I'm Bogdan Delektorskiy
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
+Junior Machine Learning Engineer and third-year Applied Mathematics and Computer Science student at HSE University.
 
+[Telegram](https://t.me/bogdan_delek_updates) · [Email](mailto:bogdan.delek@gmail.com) · [GitHub](https://github.com/BogdanDelektorskiy)
 
+## 👤 About Me
 
+I am a third-year Bachelor's student at the Faculty of Computer Science at HSE University, specializing in Machine Learning and Applications.
 
-## 🔎 About me
+I am interested in machine learning and focused on developing strong practical and mathematical foundations in this field. I enjoy working with data, experimenting with models, reading research papers, and turning ideas into reproducible ML solutions.
 
-I'm second-year student at the Faculty of Computer Science, passionate about mathematics, data analysis, alghorithms and machine learning ❤️
+## 💼 Experience
 
-I keep a <a href="https://t.me/bogdan_delek_updates" target="_blank">telegram channel</a> in which I talk about my studies and current avents - my way to Machine Learning Engineer. 
+### Intern Machine Learning Engineer — T-Bank
+*RecSys: Benefits and Advertising · March 2026 – June 2026*
+
+- Developed new features based on embeddings and cosine similarity.
+- Built embeddings for advertising campaigns, products from Shopping and Grocery, user search queries, and large-scale receipt data.
+- Designed the data preparation workflow from scratch, including extracting and processing raw data from JSON sources.
+- Calculated cosine similarity and other metrics to analyze relationships between campaigns, products, queries, and user purchase history.
+- Used Python, SQL, Jupyter notebooks, and data analysis libraries.
+- Integrated the generated features into an existing two-stage machine learning pipeline.
+- Prepared and validated approximately five new features.
+- Successfully improved the model, and the resulting changes were included in a positive A/B test.
 
 ## 🎓 Education
 
-### 💻 Basic
-- <a href="https://www.hse.ru/ba/compds//" target="_blank"> Applied Mathematics and computer science</a> bachelor from <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics</a> (september 2024 - june 2028)
+### HSE University — Faculty of Computer Science
+*BSc in Applied Mathematics and Computer Science · September 2024 – June 2028*
 
-### 📚 Additional
-- <a href="https://www.teta.mts.ru/analytics-school/" target="_blank"> School of Data Analysts</a> from <a href="https://moskva.mts.ru/personal/" target="_blank">MTS</a> (november 2024 - august 2025)
-- <a href="https://dls.samcs.ru/" target="_blank"> Deep Learning School</a> from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - december 2025)
-- <a href="https://mipt.ru/mentor" target="_blank"> Mentoring program</a> (ML project) from <a href="https://mipt.ru/" target="_blank"> Moscow Institute of Physics and Technology</a> (february 2025 - june 2025)
-- <a href="https://www.hse.ru/ma/mlds/announcements/1006697468.html" target="_blank"> Computer_Vision_Bootcamp</a> from <a href="https://www.hse.ru/ma/mlds/" target="_blank"> Master's "AI"</a> in <a href="https://www.hse.ru/" target="_blank"> Higher School of Economics</a> (february 2025)
+Specialization: Machine Learning and Applications.
 
-## 📫 My repositories
+Relevant areas: Python, C++, algorithms, data analysis, machine learning, quantitative finance, and mathematics.
 
-- <a href="https://github.com/BogdanDelektorskiy/Computer_Science_HSE" target="_blank"> Computer_Science_HSE</a>: my university projects and a lots of homework (C++ contests, data analysis)
-- <a href="https://github.com/BogdanDelektorskiy/MTS_School_of_Data_Analysis" target="_blank"> MTS_School_of_Data_Analysis</a>: my study projects and homework of this course (Python, statistics, optimization, regression)
-- <a href="https://github.com/BogdanDelektorskiy/DLS_MIPT" target="_blank"> DLS_MIPT</a>: my jupiter notebooks of this course
-- <a href="https://github.com/BogdanDelektorskiy/CV_Bootcamp_Classification_and_detectoin" target="_blank"> CV_Bootcamp_Classification_and_detectoin</a>: lecture notes and final Kaggle competition (task of detection)
+## 🔬 Selected Project
 
+### Second-Year Coursework: Community Detection for Improving Product Embeddings
 
-  
-  All this will be added soon :)
+[Repository](https://github.com/BogdanDelektorskiy/Course_work_community_detection)
 
+Research coursework completed in collaboration with Yandex Market.
 
+- Studied the structure of a product embedding space using a dataset of approximately 4.8 million products.
+- Reconstructed an encoder based on `ruBERT-tiny2` and verified embedding reproducibility.
+- Compared `K-Means`, `HDBSCAN`, PCA, L2 normalization, and other preprocessing approaches.
+- Adapted the `DeepCluster` method from computer vision to text-based product embeddings.
+- Used clusters as pseudo-labels for iterative encoder training.
+- Evaluated the resulting representations with KNN classification and external validation metrics.
+- Documented the experimental results, limitations, and possible next steps in the repository.
 
-## 📧 Get in Touch
-add it latter
+## 🛠 Technical Skills
 
+### Programming and Data
 
+`Python` · `C++` · `SQL` · `Pandas` · `NumPy` · `SciPy`
 
-<!--
+### Machine Learning
 
-## Some statistics
+`PyTorch` · `Scikit-learn` · `LightGBM` · `CatBoost` · `XGBoost` · `LightFM` · `Hugging Face`
 
+### Applied Methods
 
-[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
+Machine learning · Deep learning · Data analysis · Numerical methods · Industrial programming · Scientific literature review · Experimental design · Model evaluation
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BogdanDelektorskiy" alt="GitHub Streak" /></a>
+### Methods
 
+Recommender systems · Embeddings · Representation learning · NLP · Neural networks · Gradient boosting · Clustering · Dimensionality reduction
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanDelektorskiy&layout=compact)](https://github.com/BogdanDelektorskiy/github-readme-stats)
+### Tools
 
+`Git` · `Docker` · `FastAPI` · `Flask` · `PostgreSQL` · `Matplotlib` · `Seaborn` · `Plotly`
 
-[![Bogdan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Bogdan_Delektorskiy)](https://github.com/BogdanDelektorskiy/leetcode-stats)
+## 📚 Additional Education
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BogdanDelektorskiy)](https://github.com/BogdanDelektorskiy/github-profile-trophy)
+### MTS School of Data Analysts
+*November 2024 – August 2025*
 
-**BogdanDelektorskiy/BogdanDelektorskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Here are some ideas to get you started:
+A 10-month online program delivered by MTS Big Data experts. The curriculum covered Python, SQL, probability, statistics, A/B testing, machine learning, neural networks, recommender systems, NLP, Big Data, Spark, ML Ops, data collection, visualization, and model evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The program combined lectures, practical seminars, weekly assignments, challenges, and final projects with feedback from industry practitioners.
+
+Successfully completed the program and received a certificate.
