@@ -2,7 +2,7 @@
 
 Junior Machine Learning Engineer and third-year Applied Mathematics and Computer Science student at HSE University.
 
-[Telegram](https://t.me/bogdan_delek_updates) · [Email](mailto:bogdan.delek@gmail.com) · [GitHub](https://github.com/BogdanDelektorskiy)
+[Telegram](https://t.me/bogdan_delek) · [Email](mailto:bogdan.delek@gmail.com) · [GitHub](https://github.com/BogdanDelektorskiy)
 
 ## 👤 About Me
 
